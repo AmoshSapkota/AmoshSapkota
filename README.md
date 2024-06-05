@@ -18,11 +18,11 @@ I am a result-driven MS in Computer Science graduate with 3+ years of work exper
 - **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Keras, OpenCV, NLTK, scikit-learn, Transformers
 - **Cloud Platforms & Databases**: AWS, Azure, Google Cloud Platform, MySQL, MongoDB, Apache HBase
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats-->
 <!---![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AmoshSapkota&show_icons=true&theme=radical)-->
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmoshSapkota&layout=compact&theme=radical)
+<!--## 📊 Most Used Languages--->
+<!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmoshSapkota&layout=compact&theme=radical)--->
 
 ## 💼 Experience
 - **Graduate Teaching Assistant** | University of Texas at Arlington | Aug 2022 - May 2024
@@ -38,7 +38,7 @@ I am a result-driven MS in Computer Science graduate with 3+ years of work exper
 - **Master’s in Computer Science** | University of Texas at Arlington | Aug 2022 - May 2024
 - **Bachelor’s in Computer Science and Engineering** | KL University | June 2017 - May 2021
 
-## 📂 Projects & Publications
+<!--## 📂 Projects & Publications
 - **Car Review Sentiment Analysis Using Adversarial Training and Whole Word Mask BERT**
   - Implemented and evaluated BERT models for sentiment analysis on car review datasets, achieving 78.85% accuracy.
 - **Mango Leaf Disease Classifier**
@@ -48,10 +48,10 @@ I am a result-driven MS in Computer Science graduate with 3+ years of work exper
 - **Intelligent System for the Detection of Insider Trading in Indian Stock Market**
   - Published in Proceedings of the First International Conference on Combinatorial & Optimization, ICCAP 2021.
 - **Implementation of Machine Learning Models to Differentiate the Symptoms Of COVID-19 and Risk Stratification of Disease Severity**
-  - Published in International Journal of Engineering Research & Technology (IJERT), Dec. 2020.
+  - Published in International Journal of Engineering Research & Technology (IJERT), Dec. 2020. --->
 
 ## 📫 Connect with me:
 - [LinkedIn](https://linkedin.com/in/amosh-sapkota-991812209)
 - [GitHub](https://github.com/AmoshSapkota)
-- [Email](mailto:axs7640@mavs.uta.edu)
+- [Email](mailto:amoshsapkota@gmail.com)
 
