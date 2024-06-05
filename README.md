@@ -7,7 +7,7 @@ I am a result-driven MS in Computer Science graduate with 3+ years of work exper
 - 🌱 I’m currently learning more about big data technologies and machine learning
 - 👯 I’m looking to collaborate on innovative projects related to AI and data analysis
 - 💬 Ask me about cloud computing, web development, and machine learning
-- 📫 How to reach me: [axs7640@mavs.uta.edu](mailto:axs7640@mavs.uta.edu)
+- 📫 How to reach me: [amoshsapkota@gmail.com](mailto:amoshsapkota@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love swimming and working out in my free time
 
@@ -19,7 +19,7 @@ I am a result-driven MS in Computer Science graduate with 3+ years of work exper
 - **Cloud Platforms & Databases**: AWS, Azure, Google Cloud Platform, MySQL, MongoDB, Apache HBase
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AmoshSapkota&show_icons=true&theme=radical)
+<!---![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AmoshSapkota&show_icons=true&theme=radical)-->
 
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmoshSapkota&layout=compact&theme=radical)
