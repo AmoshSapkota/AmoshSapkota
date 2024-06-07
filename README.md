@@ -12,7 +12,7 @@ I am a result-driven MS in Computer Science graduate with 3+ years of work exper
 - ⚡ Fun fact: I love swimming and working out in my free time
 
 ## 🛠️ Languages and Tools:
-- **Languages**: Python, Go, C, C++, Java, SQL, HTML, CSS, JavaScript, TypeScript
+- **Languages**: Python, Go, C/C++, C#, Java, SQL, HTML, CSS, JavaScript, TypeScript
 - **Frameworks**: Hadoop, Flask, Express, React, Node, TensorFlow, PyTorch, Apache Spark
 - **Developer Tools**: Git, GitLab, Docker, VS Code, PyCharm, LaTeX, Jira, Power BI, Tableau
 - **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Keras, OpenCV, NLTK, scikit-learn, Transformers
