@@ -6,7 +6,6 @@
 - 💬 Ask me about cloud computing, web development, and machine learning
 - 📫 How to reach me: [amoshsapkota@gmail.com](mailto:amoshsapkota@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love swimming and working out in my free time
 
 <!--## 🛠️ Languages and Tools:
 - **Languages**: Python, Go, C/C++, C#, Java, SQL, HTML, CSS, JavaScript, TypeScript
