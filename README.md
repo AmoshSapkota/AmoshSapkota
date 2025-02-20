@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on enhancing my skills in Generative AI
 - 👯 I’m looking to collaborate on innovative projects related to AI and data analysis
 - 💬 Ask me about cloud computing, web development, and machine learning
-- 📫 How to reach me: [amoshsapkota@gmail.com](mailto:amoshsapkota@gmail.com)
+<!--- 📫 How to reach me: [amoshsapkota@gmail.com](mailto:amoshsapkota@gmail.com)-->
 - 😄 Pronouns: He/Him
 
 <!--## 🛠️ Languages and Tools:
@@ -46,8 +46,8 @@
 - **Implementation of Machine Learning Models to Differentiate the Symptoms Of COVID-19 and Risk Stratification of Disease Severity**
   - Published in International Journal of Engineering Research & Technology (IJERT), Dec. 2020. --->
 
-## 📫 Connect with me:
+<!--## 📫 Connect with me:
 - [LinkedIn](https://linkedin.com/in/amosh-sapkota-991812209)
 - [GitHub](https://github.com/AmoshSapkota)
-- [Email](mailto:amoshsapkota@gmail.com)
+- [Email](mailto:amoshsapkota@gmail.com) -->
 
