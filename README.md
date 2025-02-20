@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on enhancing my skills in Generative AI
 - 👯 I’m looking to collaborate on innovative projects related to AI and data analysis
 - 💬 Ask me about cloud computing, web development, and machine learning
-<!--- 📫 How to reach me: [amoshsapkota@gmail.com](mailto:amoshsapkota@gmail.com)-->
+- 📫 How to reach me: [amoshsapkota@gmail.com](mailto:amoshsapkota@gmail.com)
 - 😄 Pronouns: He/Him -->
 
 <!--## 🛠️ Languages and Tools:
