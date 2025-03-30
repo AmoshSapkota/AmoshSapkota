@@ -21,14 +21,7 @@
 <!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmoshSapkota&layout=compact&theme=radical)--->
 
 <!--## 💼 Experience
-- **Graduate Teaching Assistant** | University of Texas at Arlington | Aug 2022 - May 2024
-  - Conducted demos and examined projects utilizing MySQL, Java, Python, React, and JavaScript for AI, Database Systems, Web Data Management, and Data Mining courses.
-- **Research Assistant** | BioMeCIS Lab - UT Arlington | May 2023 - Dec 2023
-  - Worked on OpenOmics, enhancing user interaction with multi-omics data using Flask and React.js.
-- **Software Engineer** | Xelwel Innovation | June 2021 - July 2022
-  - Designed, developed, and maintained the LMS web application using JavaScript frameworks (React, Node.js) and Python, achieving a 30% improvement in load times.
-- **Summer Intern** | KL University | May 2019 - June 2019
-  - Contributed to UI/UX design, database connections, and login management for a student assignment tracking app.--!>
+- **--!>
 
 <!--## 📚 Education
 - **Master’s in Computer Science** | University of Texas at Arlington | Aug 2022 - May 2024
@@ -47,7 +40,5 @@
   - Published in International Journal of Engineering Research & Technology (IJERT), Dec. 2020. --->
 
 <!--## 📫 Connect with me:
-- [LinkedIn](https://linkedin.com/in/amosh-sapkota-991812209)
-- [GitHub](https://github.com/AmoshSapkota)
-- [Email](mailto:amoshsapkota@gmail.com) -->
+ -->
 
