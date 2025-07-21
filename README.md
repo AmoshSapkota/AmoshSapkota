@@ -1,44 +1,94 @@
-# Hi there 👋, I'm Amosh Sapkota
+# Amosh Sapkota - Software Engineer
 
-<!--## About Me
-- 🔭 I’m currently working on enhancing my skills in Generative AI
-- 👯 I’m looking to collaborate on innovative projects related to AI and data analysis
-- 💬 Ask me about cloud computing, web development, and machine learning
-- 📫 How to reach me: [amoshsapkota@gmail.com](mailto:amoshsapkota@gmail.com)
-- 😄 Pronouns: He/Him -->
+![Profile](https://img.shields.io/badge/Software%20Engineer-Full--Stack%20Developer-blue?logo=codeigniter)  
+![GitHub followers](https://img.shields.io/github/followers/amoshsapkota?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/amoshsapkota?style=social)  
+![GitHub commits](https://img.shields.io/github/commit-activity/m/amoshsapkota/repo/main)  
+📧 [amoshsapkota@gmail.com](mailto:amoshsapkota@gmail.com) | 📞 [214-208-4198](tel:2142084198) | 🐙 [GitHub](https://github.com/amoshsapkota)
 
-<!--## 🛠️ Languages and Tools:
-- **Languages**: Python, Go, C/C++, C#, Java, SQL, HTML, CSS, JavaScript, TypeScript
-- **Frameworks**: Hadoop, Flask, Express, React, Node, TensorFlow, PyTorch, Apache Spark
-- **Developer Tools**: Git, GitLab, Docker, VS Code, PyCharm, LaTeX, Jira, Power BI, Tableau
-- **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Keras, OpenCV, NLTK, scikit-learn, Transformers
-- **Cloud Platforms & Databases**: AWS, Azure, Google Cloud Platform, MySQL, MongoDB, Apache HBase --!>
+Welcome to my GitHub profile! I'm a dedicated Software Engineer specializing in full-stack development, cloud architecture, and DevOps. My expertise spans building scalable, secure, and efficient systems with a focus on modern technologies and best practices. Below is a comprehensive overview of my technical skills, organized by category, along with tracking metrics to showcase my contributions.
 
-<!--## 📈 GitHub Stats-->
-<!---![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AmoshSapkota&show_icons=true&theme=radical)-->
+## 📊 GitHub Stats
+![Amosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amoshsapkota&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amoshsapkota&layout=compact&theme=radical)
 
-<!--## 📊 Most Used Languages--->
-<!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmoshSapkota&layout=compact&theme=radical)--->
+## 🛠️ Technical Skills
 
-<!--## 💼 Experience
-- **--!>
+### 💻 Programming Languages
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code.svg" width="20" height="20" />  
+- Java  
+- Python  
+- JavaScript  
+- TypeScript  
+- SQL  
+- NoSQL  
+- Bash  
 
-<!--## 📚 Education
-- **Master’s in Computer Science** | University of Texas at Arlington | Aug 2022 - May 2024
-- **Bachelor’s in Computer Science and Engineering** | KL University | June 2017 - May 2021 --!>
+### 🗄️ Databases
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/database.svg" width="20" height="20" />  
+- MySQL  
+- DynamoDB  
+- Cosmos DB  
+- RDS  
+- MongoDB  
+- PostgreSQL  
+- Redis  
 
-<!--## 📂 Projects & Publications
-- **Car Review Sentiment Analysis Using Adversarial Training and Whole Word Mask BERT**
-  - Implemented and evaluated BERT models for sentiment analysis on car review datasets, achieving 78.85% accuracy.
-- **Mango Leaf Disease Classifier**
-  - Developed a CNN model achieving 95% accuracy in classifying mango leaf diseases.
-- **Naive Bayes Classifier for Rotten Tomatoes Reviews**
-  - Developed a Naive Bayes classifier with around 80% accuracy for distinguishing Rotten Tomatoes reviews.
-- **Intelligent System for the Detection of Insider Trading in Indian Stock Market**
-  - Published in Proceedings of the First International Conference on Combinatorial & Optimization, ICCAP 2021.
-- **Implementation of Machine Learning Models to Differentiate the Symptoms Of COVID-19 and Risk Stratification of Disease Severity**
-  - Published in International Journal of Engineering Research & Technology (IJERT), Dec. 2020. --->
+### ⚙️ Frameworks
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/cogs.svg" width="20" height="20" />  
+- Spring Boot  
+- Spring MVC  
+- Apache Kafka  
+- React  
+- Node.js  
 
-<!--## 📫 Connect with me:
- -->
+### 📈 Monitoring Tools
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20" />  
+- Azure Monitor  
+- Elasticsearch  
+- Logstash  
+- Kibana  
+- Prometheus  
+- Grafana  
 
+### ☁️ Cloud & DevOps
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/cloud.svg" width="20" height="20" />  
+- Terraform  
+- Docker  
+- Kubernetes  
+- Ansible  
+- Jenkins  
+- AKS  
+- EKS  
+- ECS  
+
+### 🧪 Testing
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/vial.svg" width="20" height="20" />  
+- JUnit  
+- Mockito  
+- React Testing Library  
+- SonarQube  
+
+### 🔧 Development Tools
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/tools.svg" width="20" height="20" />  
+- IntelliJ  
+- VS Code  
+- Maven  
+- Gradle  
+- SwaggerHub  
+- SonarLint  
+- Postman  
+- Git  
+
+## 🎓 Education
+**Master of Science - Computer Science**  
+The University of Texas at Arlington, Arlington, TX  
+
+## 📡 Connect with Me
+- 📧 Email: [amoshsapkota@gmail.com](mailto:amoshsapkota@gmail.com)  
+- 📞 Phone: [214-208-4198](tel:2142084198)  
+- 🐙 GitHub: [github.com/amoshsapkota](https://github.com/amoshsapkota)  
+
+---
+
+© 2025 Amosh Sapkota. All rights reserved.
