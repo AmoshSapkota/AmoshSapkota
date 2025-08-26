@@ -120,10 +120,6 @@
 ## 🛠️ Currently Learning / Exploring
 
 - 🌐 AI-Powered Dev Tools (e.g., LangChain, LLMOps)
-- 🚀 GitOps (ArgoCD, FluxCD)
-- ☁️ Azure Site Recovery & Disaster Recovery Automation
-- 📦 Secure Multi-Tenant Microservices Architecture
-
 ---
 
 > ⚡ *“Always building, learning, and iterating toward scalable, secure, and cloud-native systems.”*
